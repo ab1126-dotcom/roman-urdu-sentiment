@@ -237,4 +237,4 @@ with tab3:
         "galat ho sakta hai, aur dataset ke labels subjective hain."
     )
 
-st.markdown('<div class="small">Built with Streamlit · Hugging Face Transformers</div>', unsafe_allow_html=True)lang pe kabhi kabhi galat ho sakta hai.")
+st.markdown('<div class="small">Built with Streamlit · Hugging Face Transformers</div>', unsafe_allow_html=True)
